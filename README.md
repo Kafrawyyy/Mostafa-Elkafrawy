@@ -6,9 +6,9 @@
 
 ## About me
 
-* NTI **DevSecOps Track Scholarship (Jul–Oct 2025)** — intensive, hands‑on program in secure delivery and cloud‑native ops (Linux/Bash, Python, Git, Kubernetes, IaC, AWS/OpenStack, CI/CD, security tooling).
-* I enjoy building **reliable pipelines** and **infrastructure that scales**, with observability and security baked in.
-* Open to **entry‑level DevOps/Platform roles** and internships.
+* B.Sc. **Software Engineering**, Cairo University (2025).
+* NTI **DevSecOps Track Scholarship** — intensive, hands‑on program in secure delivery and cloud‑native ops (Linux/Bash, Python, Git, Kubernetes, IaC, AWS/OpenStack, CI/CD, security tooling).
+* Open to **entry-level Platform/DevOps** role where I can build reliable CI/CD and infra that scales.
 
 ---
 
@@ -62,7 +62,7 @@
 ### Security & Testing
 
 <p>
-  <img src="https://www.zaproxy.org/img/zaproxy-logo.svg" height="32" alt="OWASP ZAP" />
+ <img src="https://cdn.simpleicons.org/owasp" height="32" alt="OWASP ZAP" />
   <img src="https://cdn.simpleicons.org/burpsuite" height="32" alt="Burp Suite" />
 </p>
 
