@@ -7,7 +7,7 @@
 ## About me
 
 * B.Sc. **Software Engineering**, Cairo University (2025).
-* NTI **DevSecOps Track Scholarship** — intensive, hands‑on program in secure delivery and cloud‑native ops (Linux/Bash, Python, Git, Kubernetes, IaC, AWS/OpenStack, CI/CD, security tooling).
+* NTI **DevSecOps Track Scholarship** — intensive, hands‑on program in secure delivery and cloud‑native ops (Linux, Python, Git, Kubernetes, Ansible, Terrafrom , AWS , OpenStack, CI/CD, security tooling).
 * Open to **entry-level Platform/DevOps** role where I can build reliable CI/CD and infra that scales.
 
 ---
