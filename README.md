@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="Angular" title="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" title="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" title="PHP" />
+  <img alt="REST API (Swagger/OpenAPI)" title="REST API (Swagger/OpenAPI)" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/swagger.svg" />
+
 </p>
 
 ### Cloud, CI/CD & Automation
@@ -34,11 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" alt="Jenkins" title="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="32" alt="Ansible" title="Ansible" />
 <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="32" alt="Argo" title="Argo" />
-<img src="https://cdn.simpleicons.org/amazonwebservices" height="32" alt="AWS" title="AWS" />
+  <img alt="AWS" title="Amazon Web Services"height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" alt="Terraform" title="Terraform" />
 <img src="https://cdn.simpleicons.org/sonarqube" height="32" alt="SonarQube" title="SonarQube" />
 <img src="https://cdn.simpleicons.org/snyk" height="32" alt="Snyk" title="Snyk" />
+<img alt="Maven"              title="Apache Maven"       height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachemaven.svg" />
+
 </p>
 
 ### Web, Servers & OS
@@ -70,6 +74,11 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="32" alt="Prometheus" title="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32" alt="Grafana" title="Grafana" />
+</p>
+
+### Data & ML
+<p>
+  <img alt="Kaggle"             title="Kaggle"             height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kaggle.svg" />
 </p>
 
 ---
