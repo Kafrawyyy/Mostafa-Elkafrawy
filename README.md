@@ -33,13 +33,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" alt="Kubernetes" title="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" alt="Jenkins" title="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="32" alt="Ansible" title="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argo/argo-original.svg" height="32" alt="Argo" title="Argo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" alt="AWS" title="AWS" />
+<img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" height="32" alt="Argo" title="Argo" />
+<img src="https://cdn.simpleicons.org/amazonwebservices" height="32" alt="AWS" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" alt="Terraform" title="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original.svg" height="32" alt="Vault" title="HashiCorp Vault" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-plain.svg" height="32" alt="SonarQube" title="SonarQube" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snyk/snyk-original.svg" height="32" alt="Snyk" title="Snyk" />
+<img src="https://cdn.simpleicons.org/sonarqube" height="32" alt="SonarQube" title="SonarQube" />
+<img src="https://cdn.simpleicons.org/snyk" height="32" alt="Snyk" title="Snyk" />
 </p>
 
 ### Web, Servers & OS
