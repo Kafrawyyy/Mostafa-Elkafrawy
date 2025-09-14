@@ -39,7 +39,6 @@
   <img alt="AWS" title="Amazon Web Services"height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="32" alt="Terraform" title="Terraform" />
-<img src="https://cdn.simpleicons.org/sonarqube" height="32" alt="SonarQube" title="SonarQube" />
 <img src="https://cdn.simpleicons.org/snyk" height="32" alt="Snyk" title="Snyk" />
 <img alt="Maven"              title="Apache Maven"       height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apachemaven.svg" />
 
